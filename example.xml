@@ -1,0 +1,51 @@
+<bib>
+	<paper>
+		<author>
+			<affl>MIT</affl>
+			<name>Miller</name>
+		</author>
+		<title attr="test">XML Integration</title>
+		<booktitle>VLDB</booktitle>
+	</paper>
+	<paper>
+	   <title>XML</title>
+	   <cite>
+	     <paper>
+	       <title>XML integration</title>
+	       <booktitle>VLDB</booktitle>
+	     </paper>
+	   </cite>
+	</paper>
+	<paper>
+     <title>XML integration</title>
+     <booktitle>vldb</booktitle>
+     <cite>
+       <paper>
+         <title>integration</title>
+         <booktitle>VLDB</booktitle>
+       </paper>
+     </cite>
+  </paper>
+	<paper>
+		<author>
+			<affl>UIC</affl>
+			<name>Burt</name>
+		</author>
+		<title>XML Design</title>
+		<cite>
+			<paper>
+				<author>
+					<affl>UIC</affl>
+					<name>Burt</name>
+				</author>
+				<title>XML Query</title>
+				<booktitle>VLDB</booktitle>
+			</paper>
+			<paper>
+				<title>Data Integration</title>
+				<booktitle>EDBT</booktitle>
+			</paper>
+		</cite>
+		<booktitle>SIGMOD</booktitle>
+	</paper>
+</bib>
